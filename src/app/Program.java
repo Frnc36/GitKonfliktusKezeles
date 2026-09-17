@@ -22,7 +22,7 @@ public class Program {
         
         
         
-        
+        System.out.println("Megyünk haza:)))");
     }
     
 }
