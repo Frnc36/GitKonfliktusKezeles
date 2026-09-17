@@ -14,7 +14,7 @@ public class Program {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Ponauer Maja");
+        System.out.println("Szio, Maja (O-O)");
     }
     
 }
